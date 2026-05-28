@@ -30,62 +30,26 @@ Type your code in New Editor:
 • Verify the generated results.
 
 ## Code:
-```
-function X=f(x)
-    z=5 * (1-x)^2;
-    X=x*z;
-endfunction
-a=2;
-b=3;
-EX=intg(a,b,f);
-function Y=c(y)
-    z=5 * (1-y)^2;
-    Y=y*z;
-endfunction
-EY=intg(a,b,c);
-disp(EX,"i)Mean of X=")
-disp(EY,"Mean of Y=")
 
-function X=g(x)
-    z=3 * (1-x)^2;
-    X=x **2 *z;
-endfunction
-a=2;
-b=3;
-EX2=intg(a,b,g);
-function Y=h(y)
-    z=3 * (1-y)^2;
-    Y=y **2 *z;
-endfunction
-EY2=intg(a,b,h);
-vX2=EX2-(EX) **2;
-vY2=EY2-(EY) **2;
-disp(vX2,"ii)Variance of X");
-disp(vY2,"Variance of Y");
+<img width="1600" height="999" alt="WhatsApp Image 2026-05-28 at 21 57 08" src="https://github.com/user-attachments/assets/7dcef689-7890-4163-bba0-f7e429fe1ae7" />
 
-x=input("type in the reference sequence=");
-y=input("type in the reference sequence=");
-n1=max(size(y))-1;
-n2=max(size(x))-1;
-r=corr(x,y,n1);
-plot2d3('gnn',r);
-```
 ## Output:
 
-![WhatsApp Image 2025-11-20 at 17 57 00_ea6ae754](https://github.com/user-attachments/assets/8fc10509-f5ce-4244-b44c-322acf05067b)
+<img width="1600" height="908" alt="WhatsApp Image 2026-05-28 at 21 58 46" src="https://github.com/user-attachments/assets/b9e643fb-b528-4246-8c39-cde5da4425f3" />
+
 
 ## Calculation:
 
-![WhatsApp Image 2025-11-22 at 20 12 21_1f98bbe1](https://github.com/user-attachments/assets/e6e8572b-d958-42f4-a155-9563daf73889)
-![WhatsApp Image 2025-11-22 at 20 12 51_6c15b144](https://github.com/user-attachments/assets/19ce8011-7b28-48d7-ae2b-6dcda88054f5)
-![WhatsApp Image 2025-11-22 at 20 13 11_2e15dc6a](https://github.com/user-attachments/assets/c4d0e3a8-c2d6-41fe-a389-c9ddcb75de10)
+<img width="1600" height="1268" alt="image" src="https://github.com/user-attachments/assets/4b11bc8d-83fa-4bd4-ba5b-11b1464dfae3" />
+<img width="1416" height="1600" alt="image" src="https://github.com/user-attachments/assets/9c3d4885-49b5-47e1-91b9-72be58863a38" />
+<img width="915" height="1280" alt="image" src="https://github.com/user-attachments/assets/c52cc4ad-b242-41ac-a01d-0cc4ad5a11e1" />
 
 
 
 
-i) Mean of X = 112.95 ;Mean of Y = 112.97
+i) Mean of X = 5.666 ; Mean of Y = 5.666
 
-ii) Variance of X =-12,271.7; Variance of Y =-12,291.6
+ii) Variance of X = -27.977 ; Variance of Y = -27.977 
 
 Cross Correlation: Type in the reference sequence = [1 2 3 4 5 6 7 8]
 

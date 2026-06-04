@@ -10,6 +10,7 @@ To write a program for mean, variance and cross correlation in SCILAB and verify
 
 ## Algorithm:
 
+
 Define the Function:
 Specify the function you want to simulate.
 For example, f(x)=sin⁡(x)f(x) = \sin(x)f(x)=sin(x) or any other function.

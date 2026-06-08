@@ -32,18 +32,24 @@ Type your code in New Editor:
 
 ## Code:
 
-<img width="1600" height="999" alt="WhatsApp Image 2026-05-28 at 21 57 08" src="https://github.com/user-attachments/assets/7dcef689-7890-4163-bba0-f7e429fe1ae7" />
+<img width="1918" height="1110" alt="image" src="https://github.com/user-attachments/assets/c7e07375-3737-44c3-9c0c-42a310ba9d4c" />
+
 
 ## Output:
 
-<img width="1600" height="908" alt="WhatsApp Image 2026-05-28 at 21 58 46" src="https://github.com/user-attachments/assets/b9e643fb-b528-4246-8c39-cde5da4425f3" />
+<img width="1918" height="1107" alt="image" src="https://github.com/user-attachments/assets/18d2b8eb-2d17-4781-8104-36c683c722bb" />
+
 
 
 ## Calculation:
 
-<img width="1600" height="1268" alt="image" src="https://github.com/user-attachments/assets/4b11bc8d-83fa-4bd4-ba5b-11b1464dfae3" />
-<img width="1416" height="1600" alt="image" src="https://github.com/user-attachments/assets/9c3d4885-49b5-47e1-91b9-72be58863a38" />
-<img width="915" height="1280" alt="image" src="https://github.com/user-attachments/assets/c52cc4ad-b242-41ac-a01d-0cc4ad5a11e1" />
+
+<img width="832" height="896" alt="WhatsApp Image 2026-06-08 at 10 47 36 AM (7)" src="https://github.com/user-attachments/assets/642545ad-471a-41c0-8e88-67a8e7d52d64" />
+<img width="900" height="896" alt="WhatsApp Image 2026-06-08 at 10 47 36 AM (8)" src="https://github.com/user-attachments/assets/f9ac7bb3-1f40-4837-ae97-7ae4c73a330b" />
+<img width="884" height="896" alt="WhatsApp Image 2026-06-08 at 10 47 36 AM (9)" src="https://github.com/user-attachments/assets/7c19b6bc-1a44-469a-856f-f05b28a8f813" />
+
+
+
 
 
 

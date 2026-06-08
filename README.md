@@ -54,9 +54,9 @@ Type your code in New Editor:
 
 
 
-i) Mean of X = 5.666 ; Mean of Y = 5.666
+i) Mean of X = 0.1666667 ; Mean of Y = 0.1666667
 
-ii) Variance of X = -27.977 ; Variance of Y = -27.977 
+ii) Variance of X = 0.0388889 ; Variance of Y = 0.0388889 
 
 Cross Correlation: Type in the reference sequence = [1 2 3 4 5 6 7 8]
 
